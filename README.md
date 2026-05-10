@@ -25,7 +25,7 @@ The fields address and company are nested objects. The address field also contai
 
 ---
 
-### Task 2 - ransform
+### Task 2 - Transform
 
 **1. What does .split(' ')[0] do to the phone number?**
 
