@@ -1,9 +1,7 @@
-# Lab 1 — Fetch & ETL with Plain Node.js
+# Lab 1 - Fetch & ETL with Plain Node.js
 
-**Course:** Data Integration and ETL
-**Lab:** Lab 1 of 6
 
-## Group Members
+## Group Members  BSIT-3B
 
 - Badajos, Math Auric Ros D.
 - Salazar, Shirley Ann M.
