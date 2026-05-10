@@ -15,7 +15,7 @@
 
 ## Task Answers
 
-### Task 1 — Extract
+### Task 1 - Extract
 
 **1. What fields are nested objects (not plain values)?**
 
@@ -27,7 +27,7 @@ The fields address and company are nested objects. The address field also contai
 
 ---
 
-### Task 2 — Transform
+### Task 2 - ransform
 
 **1. What does .split(' ')[0] do to the phone number?**
 
@@ -43,7 +43,7 @@ All 10 records passed the filter. Every user in the dataset has a valid email ad
 
 ---
 
-### Task 3 — Load
+### Task 3 - Load
 
 **1. How many columns does the CSV have? List them.**
 
