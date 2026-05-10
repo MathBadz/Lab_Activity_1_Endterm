@@ -5,11 +5,11 @@
 
 ## Group Members
 
--Badajos, Math Auric Ros D.
--Salazar, Shirley Ann M.
--Villalobos, Jon Nathaniel
--Yanson, Rea Nicole S.
--Zambra, Maika T.
+- Badajos, Math Auric Ros D.
+- Salazar, Shirley Ann M.
+- Villalobos, Jon Nathaniel
+- Yanson, Rea Nicole S.
+- Zambra, Maika T.
 
 ---
 
